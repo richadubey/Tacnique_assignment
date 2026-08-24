@@ -1,0 +1,49 @@
+one:
+  billetto_id: "1984669"
+  title: MyString
+  description: MyText
+  url: MyString
+  image_url: MyString
+  starts_at: 2026-08-24 12:13:35
+  ends_at: 2026-08-24 12:13:35
+  available: false
+  price_cents: 1
+  currency: MyString
+  category: MyString
+  subcategory: MyString
+  event_type: MyString
+  organiser_id: 1
+  organiser_name: MyString
+  location_name: MyString
+  address: MyString
+  city: MyString
+  postal_code: MyString
+  country: MyString
+  country_code: MyString
+  latitude: 9.99
+  longitude: 9.99
+
+two:
+  billetto_id: "1984635"
+  title: MyString
+  description: MyText
+  url: MyString
+  image_url: MyString
+  starts_at: 2026-08-24 12:13:35
+  ends_at: 2026-08-24 12:13:35
+  available: false
+  price_cents: 1
+  currency: MyString
+  category: MyString
+  subcategory: MyString
+  event_type: MyString
+  organiser_id: 1
+  organiser_name: MyString
+  location_name: MyString
+  address: MyString
+  city: MyString
+  postal_code: MyString
+  country: MyString
+  country_code: MyString
+  latitude: 9.99
+  longitude: 9.99
