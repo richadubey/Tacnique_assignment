@@ -67,4 +67,4 @@ end
 
 gem "rails_event_store"
 gem "clerk-sdk-ruby", require: "clerk"
-gem "minitest", "~> 5.25"
+gem "minitest", "~> 6.0"
